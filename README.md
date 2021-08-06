@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ninad-IT
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and UI UX Designer
 - 🌱 I’m currently persuing IT Engineering
 - 📫 How to reach me patelninad05@gmail.com
 
